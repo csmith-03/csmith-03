@@ -1,0 +1,5 @@
+- Hi, I’m @csmith-03
+- I’m interested in cybersecurity and security agencies.
+- I’m currently learning Java, and last semester I learned Python.
+- I’m looking to collaborate on anything.
+- Reach out to me if you have any suggestions or projects :)
