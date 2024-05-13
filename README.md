@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there! 👋
+
+- 🔭 I’m currently working on creating Keeper Security audit reports.
+- 💬 Ask me about how I like to combine computer science and ethics.
+- ⚡ My Expertise: Python, Java, Javascript, Firebase, SQL, React, HTML, CSS, C
+- 😄 Pronouns: He/Him
 
 <!--
 **csmith-03/csmith-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
