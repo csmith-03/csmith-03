@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-- 🔭 I’m currently working on creating Keeper Security audit reports.
+- 🔭 I’m currently working on automating Keeper Security audit reports.
 - 💬 Ask me about how I like to combine computer science and ethics.
 - ⚡ My Expertise: Python, Java, Javascript, Firebase, SQL, React, HTML, CSS, C
 - 😄 Pronouns: He/Him
