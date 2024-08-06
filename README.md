@@ -1,8 +1,7 @@
 ### Hello there! 👋
 
 - 🔭 I’m currently working on integrating Salesforce opportunities with LiquidFiles for internal company use.
-- 🌱 I’m currently learning Apex classes in Salesforce.
-- 💬 Ask me about how I like to combine computer science and ethics.
+- 🌱 I’m currently learning Apex classes in Salesforce and developing in ServiceNow.
 - ⚡ My Expertise: Python, Java, Javascript, Firebase, SQL, React, HTML, CSS, C
 - 😄 Pronouns: He/Him
 
