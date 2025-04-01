@@ -1,8 +1,8 @@
 ### Hello there! 👋
 
-- 🔭 I’m currently working on integrating Salesforce opportunities with LiquidFiles for internal company use.
-- 🌱 I’m currently learning Apex classes in Salesforce and developing in ServiceNow.
-- ⚡ My Expertise: Python, Java, Javascript, Firebase, SQL, React, HTML, CSS, C
+- 🔭 I’m a software engineer who integrates applications with ServiceNow.
+- 🌱 I’m currently learning Reconciliation Rules and the IRE within ServiceNow. 
+- ⚡ My Expertise: Javascript, React.js, Python, Firebase, SQL, HTML, CSS, C
 - 😄 Pronouns: He/Him
 
 <!--
