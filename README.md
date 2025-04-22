@@ -1,8 +1,8 @@
 ### Hello there! 👋
 
 - 🔭 I’m a software engineer who integrates applications with ServiceNow.
-- 🌱 I’m currently learning Reconciliation Rules and the IRE within ServiceNow. 
-- ⚡ My Expertise: Javascript, React.js, Python, Firebase, SQL, HTML, CSS, C
+- 🌱 I’m currently learning Reconciliation Rules and the IRE within ServiceNow, and experimenting with AI models within Next.js/Vercel
+- ⚡ My Expertise: Javascript, React.js, Next.js, Python
 - 😄 Pronouns: He/Him
 
 <!--
