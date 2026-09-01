@@ -4,6 +4,12 @@
 - ⚡ My Expertise: TypeScript, Node, Javascript, React.js, Next.js, Python
 - 😄 Pronouns: He/Him
 
+### 📈 GitHub Analytics
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csmith-03&theme=prussian&hide_border=true" alt="Channing's GitHub Streak" width="80%" />
+</div>
+
 <!--
 **csmith-03/csmith-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
