@@ -1,3 +1,12 @@
+<div align="left">
+  <a href="https://github.com/csmith-03">
+    <img src="https://img.shields.io/badge/GitHub-csmith--03-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/channing-smith-1261061b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</div>
+
 ### Hello there! 👋
 
 - 🔭 I’m a software engineer who integrates applications with ServiceNow.
