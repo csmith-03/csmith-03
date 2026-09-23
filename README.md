@@ -9,8 +9,7 @@
 
 ### 👋 Hello there!
 
-- 🔭 I’m a software engineer who integrates applications with ServiceNow.
-- ⚡ My Expertise: TypeScript, Node, Javascript, React.js, Next.js, Python
+- 🔭 I’m a software engineer who builds out web applications and who integrates applications with ServiceNow.
 - 😄 Pronouns: He/Him
 <hr>
 
