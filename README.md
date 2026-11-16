@@ -40,7 +40,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)
 
-**Payments & Integrations:**
+**Integrations:**
 
 ![Stripe](https://img.shields.io/badge/Stripe-%23008CDD.svg?style=for-the-badge&logo=Stripe&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-%2362D84E.svg?style=for-the-badge&logoColor=white)
+![Keeper Security](https://img.shields.io/badge/Keeper_Security-%23FFC700.svg?style=for-the-badge&logo=keeper&logoColor=black)
 
